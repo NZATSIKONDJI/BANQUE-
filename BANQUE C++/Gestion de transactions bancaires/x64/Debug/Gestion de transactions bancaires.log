@@ -1,0 +1,8 @@
+﻿  Gestion de transactions bancaires.cpp
+C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\Gestion de transactions bancaires\Gestion de transactions bancaires.cpp(28,33): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\Gestion de transactions bancaires\Gestion de transactions bancaires.cpp(29,32): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\Gestion de transactions bancaires\Gestion de transactions bancaires.cpp(116,25): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\Gestion de transactions bancaires\Gestion de transactions bancaires.cpp(263,152): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\Gestion de transactions bancaires\Gestion de transactions bancaires.cpp(263,178): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\Gestion de transactions bancaires\Gestion de transactions bancaires.cpp(37): warning C4715: 'Banque::taxeBanque' : les chemins de contrôle ne retournent pas tous une valeur
+  Gestion de transactions bancaires.vcxproj -> C:\Users\froli\Desktop\Cours\C++\Gestion de transactions bancaires\x64\Debug\Gestion de transactions bancaires.exe
